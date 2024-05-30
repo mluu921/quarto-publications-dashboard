@@ -3,8 +3,8 @@ project:
 
 website:
   title: "quarto-publications-dashboard"
-  navbar:
-    left:
+  sidebar:
+    contents:
       - href: index.qmd
         text: Home
       - about.qmd
